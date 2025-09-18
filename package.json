@@ -1,16 +1,19 @@
 {
-  "name": "gwen-docs",
+  "name": "vue3-vitepress-demo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Personal Portfolio",
+  "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:serve": "vitepress serve docs",
+    "build": "vitepress build docs"
   },
-  "author": "Gwendolyn Faraday <gwenfaraday@pm.me> (https://gwenfaraday.com/)",
-  "license": "MIT",
   "devDependencies": {
-    "vitepress": "^0.10.7"
+    "vitepress": "^1.0.0-rc.31",
+    "vue": "^3.3.8"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }

@@ -26,7 +26,8 @@ footer:
 ---
 
 
-![Robotics Project](front.jpg) 
+![Front](./images/front.jpg)
+
 ## About Me
 
 I'm Debojyoti De Majumder, a B.Tech CSE student at IEM Kolkata with a passion for robotics, AI, and web development. I have experience in organizing and participating in hackathons such as **IEM SmartMakeathon**, and have been part of multiple large-scale projects like gesture-controlled robots, anti-tremor bands, and autonomous underwater drones. I thrive in environments that challenge me to innovate and learn continuously.

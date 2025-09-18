@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   title: 'Debojyoti De Majumder',
   description: 'Personal Portfolio',
   appearance: true,

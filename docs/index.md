@@ -26,7 +26,6 @@ footer:
 ---
 
 
-![Front](./images/front.jpg)
 
 ## About Me
 
